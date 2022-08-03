@@ -1,2 +1,2 @@
-# US-Accidents-Exploratory-data-analysis
-This is an exploratory data analysis of US accidents records during 2016 to 2021. It includes 2.8 million records.
+# US-Accidents-Exploratory-data-analysis-Project
+This is my exploratory data analysis project on US accidents records using Python and their libreries like pandas, seaborn and matplotlib. It includes 2.8 million records.
